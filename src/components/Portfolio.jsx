@@ -19,7 +19,7 @@ const Portfolio = () => {
       id: 2,
       title: "Vacation Planing",
       src: vacation,
-      demo: "https://mohitjideshmukh.github.io/Razorpay/",
+      demo: "https://mohitjideshmukh.github.io/Vacation_Planing/",
       code: "https://github.com/MohitJiDeshmukh/Vacation_Planing",
     },
     {
