@@ -52,9 +52,9 @@ const Experiences = () => {
     <>
       <div
         name="experience"
-        className=" mx-auto p-4 flex flex-col justify-center w-full h-full text-white bg-gradient-to-b from-black to-gray-800"
+        className=" mx-auto p-4 flex flex-col justify-center w-full min-h-screen text-white bg-gradient-to-b from-black to-gray-800 "
       >
-        <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
+        <div className="max-w-screen-lg mx-auto p-4 mt-16 flex flex-col justify-center w-full min-h-screen text-white">
           <div className=" space-y-3">
             <h2 className="text-4xl font-bold border-b-4 border-purple-600 p-2 inline">
               Experiences
