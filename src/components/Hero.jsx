@@ -22,7 +22,7 @@ function Hero() {
           </p>
           <button className="border-2 rounded-lg px-6 py-3 my-2 mb-8 bg-gradient-to-r from-purple-800 to-pink-500">
             <a
-              href="https://drive.google.com/file/d/1apcXjUReJPjYRMh0J4bZ4Nw-FrRW7OgK/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1WHmv5_sc_OFjek7-Gftyn3EPVUyssx2U/view?usp=sharing"
               target="_blank"
               download="true"
               rel="noreferrer"
