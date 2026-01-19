@@ -1,19 +1,19 @@
 import React from "react";
+import ecomzy from "../assets/portfolio/ecomzy.png"
 import razorpay from "../assets/portfolio/razorpay.png";
 import vacation from "../assets/portfolio/Vacation.png";
 import course from "../assets/portfolio/course.png";
 import gif from "../assets/portfolio/gif.png";
-import event from "../assets/portfolio/event.png";
 import servihub from "../assets/portfolio/servihub.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      title: "Razorpay",
-      src: razorpay,
-      demo: "https://mohitjideshmukh.github.io/Razorpay/",
-      code: "https://github.com/MohitJiDeshmukh/Razorpay",
+      title: "Ecomzy",
+      src: ecomzy,
+      demo: "https://mohitjideshmukh.github.io/Ecomzy/",
+      code: "https://github.com/MohitJiDeshmukh/Ecomzy",
     },
     {
       id: 2,
@@ -38,10 +38,10 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: "Event Planner",
-      src: event,
-      demo: "https://manthaneventandpromotion.in/",
-      code: "https://github.com/MohitJiDeshmukh/EventPlanner",
+      title: "Razorpay",
+      src: razorpay,
+      demo: "https://mohitjideshmukh.github.io/Razorpay/",
+      code: "https://github.com/MohitJiDeshmukh/Razorpay",
     },
     {
       id: 6,
